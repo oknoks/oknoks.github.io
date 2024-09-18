@@ -1,2 +1,4 @@
-- [Home](README.md)
-- [The triptych of LinkedIn content](triptych.md)
+<!-- docs/_sidebar.md -->
+
+* [Home](/)
+* [The triptych of LinkedIn content](triptych.md)
