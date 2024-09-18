@@ -41,20 +41,3 @@ However, compared to most other social media platforms LinkedIn have a high degr
 In any case, trying to play the engagement game while staying true to your brand’s professional tone at the same time is doing two things half-heartedly with a big risk of coming across as unauthentic. So not a good idea unless you are a highly engaging brand to begin with.
 
 So, following the checklist of recommended actions for LinkedIn content, as described in the first part, and being on-brand while keeping in mind the intent of the 50% of users not there for entertainment, is probably the best approach. 
-
-
-## An example of 1300 characters of text
-
-One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
-
-He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
-
-The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.
-
-"What's happened to me? " he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.
-
-A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.
-
-It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.
-
-Drops of rain could be heard hitting the pane, which made him feel quite sad. "How about if I sleep a little bit longer and forget all this nonsense", he thought, but that was something he was unable to do because he was used.
