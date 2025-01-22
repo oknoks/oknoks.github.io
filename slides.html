@@ -1,59 +1,66 @@
 <!DOCTYPE html>
-<html lang="en" class=""><head><script>window.livecodes = window.livecodes || {};</script><title>slides</title><meta name="title" content="slides"><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"><style id="__livecodes_styles__"></style><script src="https://cdn.jsdelivr.net/npm/es-module-shims@1.10.0/dist/es-module-shims.js" async=""></script><script type="importmap">{
-  "imports": {}
-}</script></head><body>
-
-  
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/black.min.css">
     <style>
-      .reveal section img {
-        border: none;
-        box-shadow: none;
-        background: none;
-      }
+        .reveal section img {
+            border: none;
+            box-shadow: none;
+            background: none;
+            width: 100%;
+            height: 100vh;
+            object-fit: contain;
+            max-width: none;
+            margin: 0;
+        }
+        body {
+            background: black;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        .reveal {
+            height: 100vh;
+        }
+        @media (max-width: 768px) {
+            .reveal section img {
+                height: auto;
+            }
+        }
     </style>
-  
-  
+</head>
+<body>
     <div class="reveal">
-      <div class="slides">
-        <section>
-          <img src="https://i.imgur.com/ufylXgl.png" alt="Slide 1">
-        </section>
-        <section>
-          <img src="https://i.imgur.com/7V5B5jo.png" alt="Slide 2">
-        </section>
-        <section>
-          <img src="https://i.imgur.com/6T4jMj8.png" alt="Slide 3">
-        </section>
-        <section>
-          <img src="https://i.imgur.com/vtuQ3pS.png" alt="Slide 4">
-        </section>
-        <section>
-          <img src="https://i.imgur.com/z1vh1Rj.png" alt="Slide 5">
-        </section>
-        <section>
-          <img src="https://i.imgur.com/RA7my85.png" alt="Slide 6">
-        </section>
-        <section>
-          <img src="https://i.imgur.com/8MxeOas.png" alt="Slide 7">
-        </section>
-      </div>
+        <div class="slides">
+            <section><img src="https://i.imgur.com/ufylXgl.png" alt="Slide 1"></section>
+            <section><img src="https://i.imgur.com/7V5B5jo.png" alt="Slide 2"></section>
+            <section><img src="https://i.imgur.com/6T4jMj8.png" alt="Slide 3"></section>
+            <section><img src="https://i.imgur.com/vtuQ3pS.png" alt="Slide 4"></section>
+            <section><img src="https://i.imgur.com/z1vh1Rj.png" alt="Slide 5"></section>
+            <section><img src="https://i.imgur.com/RA7my85.png" alt="Slide 6"></section>
+            <section><img src="https://i.imgur.com/8MxeOas.png" alt="Slide 7"></section>
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.js"></script>
     <script>
-      Reveal.initialize({
-        autoSlide: 3000,
-        loop: true,
-        controls: true,
-        progress: true,
-        autoPlayMedia: true,
-        transition: "fade",
-        transitionSpeed: "slow",
-      });
+        Reveal.initialize({
+            autoSlide: 3000,
+            loop: true,
+            controls: true,
+            progress: true,
+            autoPlayMedia: true,
+            transition: "fade",
+            transitionSpeed: "slow",
+            width: "100%",
+            height: "100%",
+            margin: 0,
+            minScale: 1,
+            maxScale: 1,
+            responsive: true
+        });
     </script>
-  
-
-<script></script></body></html>
+</body>
+</html>
